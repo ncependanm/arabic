@@ -1,0 +1,14 @@
+1. Siswa mendaftarkan diri di website resmi sekolah () dengan memasukan data sebagai berikut
+	- NISN (Digunakan untuk username ketika akan login ke halaman Dashboard Pengolah Data Calon Siswa "Jika sudah mendaftar")
+	- Jalur Pendaftaran (Pilih salah satu: Reguler atau Prestasi)
+	- Nama Lengkap
+	- Password (Untuk Masuk Ke Halaman Dashboard Pengolah Data Calon Siswa)
+2. Kemudian setelah mendaftar, masuk ke halaman Dashboard Pengolah Data Calon Siswa, nanti calon siswa masukan semua data persyaratan (Data Diri, Data Orang Tua, Data Nilai)
+3. Kemudian calon siswa cetak kartu peserta
+4. Ada proses validasi, (proses ini belum saya pahami, apakah calon siswa yang sudah mendaftar dan mengisi persyaratan datang ke sekolah dengan membawa raport asli "sebagai bukti siswa tersebut melakukan input data secara valid", atau bagaimana ?)
+   dan apakah setelah proses validasi ini akan ada penyaringan calon siswa yang akan mengikuti proses seleksi selanjutnya ?
+5. Kemudian calon siswa hadir untuk mengikuti ujian tes dan wawancara
+6. (Hasil Tes dan Wawancara akan di input oleh admin, secara otomatis akan generate lulus atau tidak nya siswa tersebut)
+7. Kemudian di tanggal yang di tentukan pengumuman kelulusan akan di tampilkan di halaman Dashboard Pengolah Data Calon Siswa, calon siswa tinggal masuk dan cek apakah lulus atau tidak
+8. Jika lulus maka calon siswa melakukan daftar ulang (Proses ini yang belum saya paham, apakah calon siswa datang ke sekolah atau ada di aplikasi)
+9. Calon siswa yang dinyatakan lulus, sudah resmi jadi siswa di sekolah ini
